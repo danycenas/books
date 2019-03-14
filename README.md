@@ -13,4 +13,7 @@
 <a href="https://danycenas.github.io/books/cucumber-for-java-book.pdf">
   <img src="https://imagery.pragprog.com/products/383/srjcuc.jpg" width="21%">
 </a>
+<a href="https://danycenas.github.io/books/Succeeding%20with%20Agile.pdf">
+  <img src="https://www.safaribooksonline.com/library/cover/9780321660534/360h/" width="20%">
+</a>
 </div>
