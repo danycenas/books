@@ -1,15 +1,9 @@
 # books 3
 
-1
-<img src="https://images.manning.com/720/960/resize/book/4/925326f-e135-424a-a5c7-ddbb176dd663/tahchiev.png" width="50%">
-2
 <a href="https://danycenas.github.io/books/Efective%20Testing.pdf">
-  <img src="https://images.manning.com/720/960/resize/book/4/925326f-e135-424a-a5c7-ddbb176dd663/tahchiev.png" width="50%">
+  <img src="https://images.manning.com/720/960/resize/book/4/925326f-e135-424a-a5c7-ddbb176dd663/tahchiev.png" width="30%">
 </a>
-3
-<a href="https://drive.google.com/viewerng/viewer?embedded=true&url=https://danycenas.github.io/books/Efective%20Testing.pdf">
-  <img src="https://images.manning.com/720/960/resize/book/4/925326f-e135-424a-a5c7-ddbb176dd663/tahchiev.png" width="50%">
-</a>
+
 
 <object data="https://danycenas.github.io/books/Efective%20Testing.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://danycenas.github.io/books/Efective%20Testing.pdf">
